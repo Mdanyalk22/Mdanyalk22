@@ -6,7 +6,7 @@
 
 🚀 Turning concepts into code | 📝 Writings lines that connect the world | 🌐 Exploring the wireless spectrum
 
-🔌 Currently working on innovative solutions for communication challenges | 🛰️ Turning bits into signals, signals into data
+🔌 Currently working on innovative solutions for Direct to Satellite communication challenges | 🛰️ Turning bits into signals, signals into data
 
 📚 Lifelong learner | 🧠 Exploring the realms of wireless tech | 🌐 Enabling seamless connectivity
 
